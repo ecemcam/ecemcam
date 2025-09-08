@@ -1,5 +1,3 @@
-## 🔧 Languages & Tools  
-
 # Hi there, I'm Ecem!
 
  *"Life is weird, Let's make it more weird with coding."* 
