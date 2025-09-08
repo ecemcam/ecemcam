@@ -1,32 +1,25 @@
-# Hi there 👋 I'm Ecem  
-
-✨ *"Nothing is impossible — every dataset has a hidden story, waiting for those who dare to see it."* ✨  
-
-I’m a **Data Engineer & Analyst** passionate about transforming raw data into **insights and innovation**.  
-Inspired by philosophy and creativity, I believe data is not just numbers — it’s the foundation for **understanding, growth, and impact**.  
-
----
-
 ## 🔧 Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,mysql,mongodb,aws,azure,gcp,snowflake,redshift,bigquery,s3,git,github,githubactions,docker,airflow,spark,kafka,vscode&perline=10" />
-</p>
+  <!-- Core languages -->
+  <img src="https://skillicons.dev/icons?i=python,sql,git,github,githubactions,docker,vscode&perline=12" />
+  
+  <!-- Databases & Warehouses -->
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&perline=12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-redshift.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/snowflake-1.svg" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" width="50" height="50"/>
+  
+  <!-- Cloud -->
+  <img src="https://skillicons.dev/icons?i=azure,gcp&perline=12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg" width="50" height="50"/>
 
----
+  <!-- Data Engineering -->
+  <img src="https://skillicons.dev/icons?i=spark&perline=12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" width="50" height="50"/>
+  <img src="https://airflow.apache.org/images/airflow-dark.png" width="50" height="50"/>
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ecemcam&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
----
-
-## 🤝 Let’s Connect  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ecemc12/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <!-- AI -->
+  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="50" height="50"/>
 </p>
