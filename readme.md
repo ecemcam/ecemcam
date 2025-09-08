@@ -2,7 +2,7 @@
 ### *"Life is weird, Let's make it weirder by coding."*
 #### I'm a **Data Engineer & Analyst** passionate about building **scalable pipelines** and extracting **insights from raw data**.  
 ---
-## Tech Skills
+### Tech Skills
 <p align="center">
   <!-- Core -->
   <img src="https://skillicons.dev/icons?i=python,git,github,githubactions,docker,vscode&perline=15" />
@@ -28,7 +28,7 @@
 </p>
 
 ---
-##  Let's Connect!
+###  Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/ecemc12/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
