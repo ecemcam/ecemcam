@@ -1,6 +1,6 @@
 # Hi there, I'm Ecem!
 ### *"Life is weird, Let's make it more weird by coding."*
-## I'm a **Data Engineer & Analyst** passionate about building **scalable pipelines** and extracting **insights from raw data**.  
+#### I'm a **Data Engineer & Analyst** passionate about building **scalable pipelines** and extracting **insights from raw data**.  
 ---
 ## Tech Skills
 <p align="center">
