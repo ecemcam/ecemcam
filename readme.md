@@ -1,5 +1,5 @@
 # Hi there, I'm Ecem!
- *"Life is weird, Let's make it more weird by coding."* 
+### *"Life is weird, Let's make it more weird by coding."* /n
 I'm a **Data Engineer & Analyst** passionate about building **scalable pipelines** and extracting **insights from raw data**.  
 ---
 ## Tech Skills
@@ -26,8 +26,9 @@ I'm a **Data Engineer & Analyst** passionate about building **scalable pipelines
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="48" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=flat&logo=rest&logoColor=white" height="48" />
 </p>
+
 ---
-## 🤝 Let's Connect  
+##  Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/ecemc12/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
