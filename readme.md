@@ -7,25 +7,18 @@
 <p align="center">
 
   <!-- Core -->
-  <img src="https://skillicons.dev/icons?i=python,git,github,githubactions,docker,vscode" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
 
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" />
 
   <!-- Cloud & Cloud Data Services -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" height="45" />
-  <img src="https://skillicons.dev/icons?i=redshift,bigquery,snowflake" height="45" />
-
-  <!-- Data Engineering -->
-  <img src="https://skillicons.dev/icons?i=dbt,spark,kafka,airflow" height="45" />
-
-</p>
-
----
-
-### 🌐 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/ecemc12/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="45" />
+  <
