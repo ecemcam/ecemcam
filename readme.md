@@ -12,6 +12,7 @@
   <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
   <br/><br/>
   
   <!-- Databases -->
@@ -38,6 +39,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/airbyte/615EF1" alt="Airbyte" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/dbt/FF694B" alt="dbt" width="40" height="40"/>
+  <br/><br/>
+  
+  <!-- AI Tools -->
+  <img src="https://cdn.simpleicons.org/anthropic/D4A373" alt="Claude" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/openai/412991" alt="ChatGPT" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" width="40" height="40"/>
 </p>
 
 ---
