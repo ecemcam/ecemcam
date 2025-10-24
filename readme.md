@@ -7,23 +7,24 @@
 <p align="center">
 
   <!-- Core -->
-  <img src="https://skillicons.dev/icons?i=python,git,github,githubactions,docker,vscode&theme=light" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,githubactions,docker,vscode&theme=light" height="45" />
 
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" height="45" />
 
-  <!-- Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" height="40" />
-  <img src="https://img.shields.io/badge/Redshift-4053D6?style=flat&logo=amazonredshift&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/Snowflake-56C4F7?style=flat&logo=snowflake&logoColor=white" height="26" />
+  <!-- Cloud & Cloud Data Services -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonredshift.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlebigquery.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" height="45" />
 
   <!-- Data Engineering -->
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/Airbyte-6146C7?style=flat&logo=airbyte&logoColor=white" height="26" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dbt.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachespark.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachekafka.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/airbyte.svg" height="45" />
 
 </p>
 
@@ -35,4 +36,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
