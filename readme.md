@@ -29,16 +29,16 @@
   <!-- Cloud Data Warehouses -->
   <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" alt="BigQuery" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/amazonredshift/8C4FFF" alt="Redshift" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white" alt="Redshift" height="40"/>
   <br/><br/>
   
   <!-- Data Engineering Tools -->
   <img src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="Spark" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/apachekafka/231F20" alt="Kafka" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" alt="Airflow" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" alt="Airflow" height="40"/>
   <img src="https://cdn.simpleicons.org/airbyte/615EF1" alt="Airbyte" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/dbt/FF694B" alt="dbt" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/fivetran/0073FF" alt="Fivetran" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Fivetran-0073FF?style=flat&logo=fivetran&logoColor=white" alt="Fivetran" height="40"/>
 </p>
 
 ---
