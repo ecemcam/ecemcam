@@ -38,7 +38,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/airbyte/615EF1" alt="Airbyte" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/dbt/FF694B" alt="dbt" width="40" height="40"/>
-  <img src="https://asset.brandfetch.io/idE2ETpcHz/idQhgFMag1.svg" alt="Fivetran" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354101/fivetran.svg" alt="Fivetran" width="40" height="40"/>
 </p>
 
 ---
