@@ -9,7 +9,7 @@
   <!-- Core Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   <br/><br/>
@@ -20,18 +20,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <br/><br/>
   
+  <!-- Cloud Platforms -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  <br/><br/>
+  
   <!-- Cloud Data Warehouses -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="BigQuery" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Redshift" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" alt="BigQuery" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="Snowflake" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/amazonredshift/8C4FFF" alt="Redshift" width="40" height="40"/>
   <br/><br/>
   
   <!-- Data Engineering Tools -->
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Airflow" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/A/airbyte-logo-CE4E1A25EC-seeklogo.com.png" alt="Airbyte" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" alt="dbt" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="Spark" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20" alt="Kafka" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" alt="Airflow" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/airbyte/615EF1" alt="Airbyte" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/dbt/FF694B" alt="dbt" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/fivetran/0073FF" alt="Fivetran" width="40" height="40"/>
 </p>
 
 ---
